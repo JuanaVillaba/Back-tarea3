@@ -1,0 +1,23 @@
+{
+  "name": "paquete",
+  "version": "1.0.0",
+  "description": "Paquete de index",
+  "keywords": [
+    "contraseña"
+  ],
+  "homepage": "https://github.com/JuanaVillaba/Back-tarea3#readme",
+  "bugs": {
+    "url": "https://github.com/JuanaVillaba/Back-tarea3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanaVillaba/Back-tarea3.git"
+  },
+  "license": "ISC",
+  "author": "Juana Villalba",
+  "type": "commonjs",
+  "main": "miIndex.js",
+  "scripts": {
+    "test": "No+"
+  }
+}
