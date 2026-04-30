@@ -19,5 +19,8 @@
   "main": "miIndex.js",
   "scripts": {
     "test": "No+"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
